@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @wisniaczekm
-- 👀 I’m interested in programming in javascript/c++/python
-- 🌱 I’m currently learning javascript
+- 👋 Hi, I’m Michał Wiśniewski
+- 👀 I’m interested in programming in javascript/c++/c/python
 - 📫 How to reach me on michalwisniaczek@gmail.com
 
 <!---
